@@ -41,3 +41,7 @@ footer {
   width: 100%;
   height: 150px;
 }
+
+.art_comment {
+  list-style: none;
+}
